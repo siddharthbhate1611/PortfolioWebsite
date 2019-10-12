@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> </title>
+    </head>
+    <body>
+<h1>Siddharth Bhate</h1>
+<h3>Product Manager</h3>
+
+<img width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDllU59pbfCwDlh5eGc48xNUiEfx-SiyxYaixDvKAa3aWX1qsn">
+
+<h3>Zenoti</h3>
+<h4>2014-Present</h4>
+
+<p>I am <strike>not</strike> a <Strong><acronym title="Technical Product Manager">TPM</acronym></Strong>.</p>
+
+<form action="/action_page.php" method="get">
+  Awesome: <input type="radio" name="fname"><br>
+  Does not Matter: <input type="radio" name="lname"><br>
+  <input type="submit" value="Submit">
+</form>
+    </body>
+</html>

@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: MediumSeaGreen;
+    margin-bottom: 2px;
+}
+
+.Tools {
+    color: White;
+    float: left;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+p {
+    color: MediumSeaGreen;
+}
+
+Section {
+    height: 350px;
+}
